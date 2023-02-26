@@ -38,3 +38,7 @@
   border-radius: 7px;
   height: 40px;
 }
+
+.p-button-success:hover {
+  cursor: pointer;
+}
